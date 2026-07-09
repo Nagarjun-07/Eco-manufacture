@@ -1,0 +1,6 @@
+{
+  "name": "Eco Manufacture",
+  "description": "AI-Powered Carbon Footprint Analysis for Manufacturing Industries. Dynamic emissions estimation, cost savings optimization, and future trend prediction using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
